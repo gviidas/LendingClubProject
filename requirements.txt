@@ -1,0 +1,8 @@
+lightgbm
+flask
+gunicorn
+xgboost
+imbalanced-learn
+scikit-learn
+joblib
+pandas
